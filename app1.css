@@ -1,0 +1,91 @@
+body{
+	background-image: url('walpappers-app1.jpg');
+}
+#menu{
+	height: 120px;
+	background-color: #000000c4;
+	flex-direction: row;
+	color: white;
+}
+.menu{
+	color: white;
+}
+h2{
+	color: black;
+}
+.lien1{
+	padding-bottom: 50px;
+	margin-left: 10%;
+	font-size: 28px;
+	color: white;
+}
+
+.lien1:hover {
+	color: red;
+}
+.lien2{
+	margin-left: 15%;
+	font-size: 28px;
+	color: white;
+}
+.lien2:hover {
+	color: red;
+}
+.lien3{
+	margin-left: 20%;
+	font-size: 28px;
+	color: white;
+}
+.lien3:hover {
+	color: red;
+}
+.lien4{
+	margin-left: 25%;
+	font-size: 28px;
+	color: white;
+}
+.lien4:hover {
+	color: red;
+}
+.contenu1{
+	background-color: #d8d8d8c2;
+	width: 1800px;
+	height: 700px;
+	margin-left: 45px;
+	margin-top: 20px;
+	display: flex;
+	flex-direction: row;
+}
+blockquote{
+	width: 900px;
+	font-size: 21px;
+	color: black;
+	margin-left: 15px;
+	margin-top: 50px;
+	font-style: serif;
+}
+.img1-app1{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.img1-app1:hover{
+	transform: scale(1.2);
+}
+.img2-app1{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.img2-app1:hover{
+	transform: scale(1.2);
+}
+.img3-app1{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.img3-app1:hover{
+	transform: scale(1.2);
+}
+.logo-img{
+position: absolute;
+margin-left: 20%;
+}

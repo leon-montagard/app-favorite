@@ -1,0 +1,88 @@
+body{
+	background-image: url('walpappers-app3.jpg');
+}
+h2{
+	padding-left: 20%;
+}
+#menu{
+	height: 120px;
+	background-color: #000000c4;
+	flex-direction: row;
+	color: white;
+}
+.menu{
+	color: white;
+}
+.lien1{
+	padding-bottom: 50px;
+	margin-left: 10%;
+	font-size: 28px;
+	color: white;
+}
+
+.lien1:hover {
+	color: red;
+}
+.lien2{
+	margin-left: 15%;
+	font-size: 28px;
+	color: white;
+}
+.lien2:hover {
+	color: red;
+}
+.lien3{
+	margin-left: 20%;
+	font-size: 28px;
+	color: white;
+}
+.lien3:hover {
+	color: red;
+}
+.lien4{
+	margin-left: 25%;
+	font-size: 28px;
+	color: white;
+}
+.lien4:hover {
+	color: red;
+}
+.contenu1{
+	background-color: #65b81085;
+	width: 1600px;
+	height: 1080px;
+	margin-left: 8%;
+	font-family: arial;
+	font-size: 16px;
+
+}
+.text{
+	position: absolute;
+}
+blockquote{
+	color: black;
+	font-weight:bold;
+	background-color:#ffffffa3;
+}
+.images{
+	display: flex;
+	flex-direction: row;
+	padding-left: 53%;
+	padding-bottom: 300px;
+	padding-top: 50px;
+}
+.images:hover{
+	transform: scale(1.1);
+}
+#logo_uber{
+	margin-left: 30%;
+}
+#pub_uber{
+	position: right;
+}
+
+#pub_video
+{
+	display: flex;
+	justify-content: center;
+}

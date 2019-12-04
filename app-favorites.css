@@ -1,0 +1,111 @@
+body{
+	background-image: url('walpappers.jpg');
+}
+@font-face {
+  font-family: "police_gta";
+  src: url("police_gta.ttf");
+}
+h3{
+	font-family: "police_gta";
+}
+a{
+	text-decoration: none;
+}
+#menu{
+	height: 120px;
+	background-color: #000000c4;
+	flex-direction: row;
+	color: white;
+}
+.menu{
+	color: white;
+}
+.lien1{
+	padding-bottom: 50px;
+	margin-left: 10%;
+	font-size: 28px;
+	color: white;
+}
+
+.lien1:hover {
+	color: red;
+}
+
+
+
+.lien2{
+	margin-left: 15%;
+	font-size: 28px;
+	color: white;
+}
+.lien2:hover {
+	color: red;
+}
+.lien3{
+	margin-left: 20%;
+	font-size: 28px;
+	color: white;
+}
+.lien3:hover {
+	color: red;
+}
+.lien4{
+	margin-left: 25%;
+	font-size: 28px;
+	color: white;
+}
+.lien4:hover {
+	color: red;
+}
+.contenu1{
+	width: 80%;
+	background-color: #3c3b3bb0;
+	color: white;
+	font-weight: bold;
+	font-size: 21px;
+	margin-top: 50px;
+	margin-left: 200px;
+	margin-bottom: 50px;
+	border-style: solid;
+	border-radius: 10px;
+
+}
+.contenu1:hover{
+	transform: scale(1.15);
+}
+.contenu2{
+	width: 80%;
+	background-color: #3c3b3bb0;
+	color: white;
+	font-weight: bold;
+	font-size: 21px;
+	margin-left: 200px;
+	margin-bottom: 50px;
+	border-style: solid;
+	border-radius: 10px;
+
+}
+.contenu2:hover{
+	transform: scale(1.15);
+}
+.contenu3{
+	width: 80%;
+	background-color: #3c3b3bb0;
+	color: white;
+	font-weight: bold;
+	font-size: 21px;
+	margin-left: 200px;
+	margin-top: 50px;
+	border-style: solid;
+	border-radius: 10px;
+
+}
+.contenu3:hover{
+	transform: scale(1.15);
+}
+#img-app1{
+
+}
+.capture_uber{
+	margin-left: 80%;
+}
